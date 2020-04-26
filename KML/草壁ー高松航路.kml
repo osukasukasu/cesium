@@ -1,0 +1,2307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	
+    <Folder>
+		<name>草壁</name>
+		<Style>
+			<ListStyle>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+
+<!-- 草壁発 -->
+
+		<Folder>
+			<name>草壁0750</name>
+			<Style>
+				<ListStyle>
+                	<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T07:50:00+09:00</begin>
+<end>2020-04-21T08:00:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.29898</longitude>
+			<latitude>34.47882</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>./KML/アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T08:00:00+09:00</begin>
+<end>2020-04-21T08:10:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.26706</longitude>
+			<latitude>34.44409</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T08:10:00+09:00</begin>
+<end>2020-04-21T08:20:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.23578</longitude>
+			<latitude>34.41152</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T08:20:00+09:00</begin>
+<end>2020-04-21T08:30:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.18354</longitude>
+			<latitude>34.41004</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T08:30:00+09:00</begin>
+<end>2020-04-21T08:40:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.12953</longitude>
+			<latitude>34.40624</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T08:40:00+09:00</begin>
+<end>2020-04-21T08:50:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.08826</longitude>
+			<latitude>34.38704</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T08:50:00+09:00</begin>
+<end>2020-04-21T09:00:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.04898</longitude>
+			<latitude>34.35413</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+		</Folder>
+
+		<Folder>
+			<name>草壁1050</name>
+			<Style>
+				<ListStyle>
+                	<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T10:50:00+09:00</begin>
+<end>2020-04-21T11:00:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.29898</longitude>
+			<latitude>34.47882</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T11:00:00+09:00</begin>
+<end>2020-04-21T11:10:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.26706</longitude>
+			<latitude>34.44409</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T11:10:00+09:00</begin>
+<end>2020-04-21T11:20:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.23578</longitude>
+			<latitude>34.41152</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T11:20:00+09:00</begin>
+<end>2020-04-21T11:30:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.18354</longitude>
+			<latitude>34.41004</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T11:30:00+09:00</begin>
+<end>2020-04-21T11:40:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.12953</longitude>
+			<latitude>34.40624</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T11:40:00+09:00</begin>
+<end>2020-04-21T11:50:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.08826</longitude>
+			<latitude>34.38704</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T11:50:00+09:00</begin>
+<end>2020-04-21T12:00:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.04898</longitude>
+			<latitude>34.35413</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+		</Folder>
+
+		<Folder>
+			<name>草壁1330</name>
+			<Style>
+				<ListStyle>
+                	<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T13:30:00+09:00</begin>
+<end>2020-04-21T13:40:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.29898</longitude>
+			<latitude>34.47882</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T13:40:00+09:00</begin>
+<end>2020-04-21T13:50:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.26706</longitude>
+			<latitude>34.44409</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T13:50:00+09:00</begin>
+<end>2020-04-21T14:00:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.23578</longitude>
+			<latitude>34.41152</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T14:00:00+09:00</begin>
+<end>2020-04-21T14:10:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.18354</longitude>
+			<latitude>34.41004</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T14:10:00+09:00</begin>
+<end>2020-04-21T14:20:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.12953</longitude>
+			<latitude>34.40624</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T14:20:00+09:00</begin>
+<end>2020-04-21T14:30:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.08826</longitude>
+			<latitude>34.38704</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T14:30:00+09:00</begin>
+<end>2020-04-21T14:40:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.04898</longitude>
+			<latitude>34.35413</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+		</Folder>
+
+		<Folder>
+			<name>草壁1615</name>
+			<Style>
+				<ListStyle>
+                	<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T16:15:00+09:00</begin>
+<end>2020-04-21T16:25:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.29898</longitude>
+			<latitude>34.47882</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T16:25:00+09:00</begin>
+<end>2020-04-21T16:35:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.26706</longitude>
+			<latitude>34.44409</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T16:35:00+09:00</begin>
+<end>2020-04-21T16:45:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.23578</longitude>
+			<latitude>34.41152</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T16:45:00+09:00</begin>
+<end>2020-04-21T16:55:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.18354</longitude>
+			<latitude>34.41004</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T16:55:00+09:00</begin>
+<end>2020-04-21T17:05:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.12953</longitude>
+			<latitude>34.40624</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T17:05:00+09:00</begin>
+<end>2020-04-21T17:15:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.08826</longitude>
+			<latitude>34.38704</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T17:15:00+09:00</begin>
+<end>2020-04-21T17:25:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.04898</longitude>
+			<latitude>34.35413</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+		</Folder>
+
+
+
+<!-- 高松発 -->
+		<Folder>
+			<name>高松0930</name>
+			<Style>
+				<ListStyle>
+                	<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T10:30:00+09:00</begin>
+<end>2020-04-21T10:40:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.29898</longitude>
+			<latitude>34.47882</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T10:20:00+09:00</begin>
+<end>2020-04-21T10:30:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.26706</longitude>
+			<latitude>34.44409</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T10:10:00+09:00</begin>
+<end>2020-04-21T10:20:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.23578</longitude>
+			<latitude>34.41152</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T10:00:00+09:00</begin>
+<end>2020-04-21T10:10:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.18354</longitude>
+			<latitude>34.41004</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T09:50:00+09:00</begin>
+<end>2020-04-21T10:00:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.12953</longitude>
+			<latitude>34.40624</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T09:40:00+09:00</begin>
+<end>2020-04-21T09:50:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.08826</longitude>
+			<latitude>34.38704</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T09:30:00+09:00</begin>
+<end>2020-04-21T09:40:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.04898</longitude>
+			<latitude>34.35413</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+		</Folder>
+
+		<Folder>
+			<name>高松1215</name>
+			<Style>
+				<ListStyle>
+                	<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T13:15:00+09:00</begin>
+<end>2020-04-21T13:25:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.29898</longitude>
+			<latitude>34.47882</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T13:05:00+09:00</begin>
+<end>2020-04-21T13:15:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.26706</longitude>
+			<latitude>34.44409</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T12:55:00+09:00</begin>
+<end>2020-04-21T13:05:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.23578</longitude>
+			<latitude>34.41152</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T12:45:00+09:00</begin>
+<end>2020-04-21T12:55:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.18354</longitude>
+			<latitude>34.41004</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T12:35:00+09:00</begin>
+<end>2020-04-21T12:45:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.12953</longitude>
+			<latitude>34.40624</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T12:25:00+09:00</begin>
+<end>2020-04-21T12:35:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.08826</longitude>
+			<latitude>34.38704</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T12:15:00+09:00</begin>
+<end>2020-04-21T12:25:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.04898</longitude>
+			<latitude>34.35413</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+		</Folder>
+
+		<Folder>
+			<name>高松1743</name>
+			<Style>
+				<ListStyle>
+                	<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T18:43:00+09:00</begin>
+<end>2020-04-21T18:53:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.29898</longitude>
+			<latitude>34.47882</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T18:33:00+09:00</begin>
+<end>2020-04-21T18:43:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.26706</longitude>
+			<latitude>34.44409</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T18:23:00+09:00</begin>
+<end>2020-04-21T18:33:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.23578</longitude>
+			<latitude>34.41152</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T18:13:00+09:00</begin>
+<end>2020-04-21T18:23:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.18354</longitude>
+			<latitude>34.41004</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T18:03:00+09:00</begin>
+<end>2020-04-21T18:13:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.12953</longitude>
+			<latitude>34.40624</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T17:53:00+09:00</begin>
+<end>2020-04-21T18:03:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.08826</longitude>
+			<latitude>34.38704</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T17:43:00+09:00</begin>
+<end>2020-04-21T17:53:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.04898</longitude>
+			<latitude>34.35413</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+		</Folder>
+
+		<Folder>
+			<name>高松2030</name>
+			<Style>
+				<ListStyle>
+                	<listItemType>checkHideChildren</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T21:30:00+09:00</begin>
+<end>2020-04-21T21:40:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.29898</longitude>
+			<latitude>34.47882</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T21:20:00+09:00</begin>
+<end>2020-04-21T21:30:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.26706</longitude>
+			<latitude>34.44409</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T21:10:00+09:00</begin>
+<end>2020-04-21T21:20:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.23578</longitude>
+			<latitude>34.41152</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T21:00:00+09:00</begin>
+<end>2020-04-21T21:10:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.18354</longitude>
+			<latitude>34.41004</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T20:50:00+09:00</begin>
+<end>2020-04-21T21:00:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.12953</longitude>
+			<latitude>34.40624</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T20:40:00+09:00</begin>
+<end>2020-04-21T20:50:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.08826</longitude>
+			<latitude>34.38704</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+<Placemark>
+	<name>アイコン坂手</name>
+	<LookAt>
+		<longitude>134.322664949891</longitude>
+		<latitude>34.4553112091933</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>882.248016619261</range>
+	</LookAt>
+<TimeSpan>
+<begin>2020-04-21T20:30:00+09:00</begin>
+<end>2020-04-21T20:40:00+09:00</end>
+</TimeSpan>
+	<Model id="model_2">
+		<altitudeMode>relativeToGround</altitudeMode>
+		<Location>
+			<longitude>134.04898</longitude>
+			<latitude>34.35413</latitude>
+			<altitude>0</altitude>
+		</Location>
+		<Orientation>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<roll>0</roll>
+		</Orientation>
+		<Scale>
+			<x>3</x>
+			<y>3</y>
+			<z>3</z>
+		</Scale>
+		<Link>
+			<href>アイコン坂手.dae</href>
+		</Link>
+		<ResourceMap>
+		</ResourceMap>
+	</Model>
+</Placemark>
+
+		</Folder>
+
+
+	</Folder>
+
+</kml>
+
+
+
+
+
+
