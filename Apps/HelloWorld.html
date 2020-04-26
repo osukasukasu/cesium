@@ -20,6 +20,13 @@
   <div id="cesiumContainer"></div>
   <script>
     var viewer = new Cesium.Viewer('cesiumContainer');
+
+    viewer.dataSources.add(Cesium.KmlDataSource.load("./KML/候補物件.kmz"));
+
+    viewer.dataSources.add(Cesium.KmlDataSource.load("./KML/フェリー.kmz"));
+
+    viewer.dataSources.add(Cesium.KmlDataSource.load("./KML/地質図３D.kmz"));
+
   </script>
 </body>
 </html>
