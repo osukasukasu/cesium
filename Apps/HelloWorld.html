@@ -14,33 +14,47 @@
 </style>
 <div id="cesiumContainer" class="fullSize"></div>
 <div id="loadingOverlay"><h1>Loading...</h1></div>
-<div id="toolbar">
-    <table class="infoPanel">
-        <tbody>
-        <tr>
-            <td>Click on the Cesium display to start.</td>
-        </tr>
-        <tr>
-            <td>w/s - move forward/backward</td>
-        </tr>
-        <tr>
-            <td>a/d - move left/right</td>
-        </tr>
-        <tr>
-            <td>q/e - move up/down</td>
-        </tr>
-        <tr>
-            <td>left mouse button down plus mouse move changes the look direction</td>
-        </tr>
-        </tbody>
-    </table>
-</div>
+<div id="toolbar"></div>
+
 
 </head>
 <body>
   <div id="cesiumContainer"></div>
   <script>
     
+Sandcastle.addToolbarMenu([{
+    text : 'KML - Global Science Facilities',
+    onselect : function() {
+        viewer.camera.flyHome(0);
+        viewer.dataSources.add(Cesium.KmlDataSource.load('../SampleData/kml/facilities/facilities.kml', options));
+    }
+}, {
+    text : 'KMZ with embedded data - GDP per capita',
+    onselect : function() {
+        viewer.camera.flyHome(0);
+        viewer.dataSources.add(Cesium.KmlDataSource.load('../SampleData/kml/gdpPerCapita2008.kmz', options));
+    }
+}, {
+    text : 'gx KML extensions - Bike Ride',
+    onselect : function() {
+        viewer.dataSources.add(Cesium.KmlDataSource.load('../SampleData/kml/bikeRide.kml', options)).then(function(dataSource){
+            viewer.clock.shouldAnimate = false;
+            var rider = dataSource.entities.getById('tour');
+            viewer.flyTo(rider).then(function(){
+                viewer.trackedEntity = rider;
+                viewer.selectedEntity = viewer.trackedEntity;
+                viewer.clock.multiplier = 30;
+                viewer.clock.shouldAnimate = true;
+            });
+        });
+    }
+}], 'toolbar');
+
+Sandcastle.reset = function() {
+    viewer.dataSources.removeAll();
+    viewer.clock.clockRange = Cesium.ClockRange.UNBOUNDED;
+    viewer.clock.clockStep = Cesium.ClockStep.SYSTEM_CLOCK;
+};
 
 
 // 棒グラフ
