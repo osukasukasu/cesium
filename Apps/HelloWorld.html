@@ -41,20 +41,6 @@
   <div id="cesiumContainer"></div>
   <script>
     
-// Grant CesiumJS access to your ion assets
-Cesium.Ion.defaultAccessToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2ZWI3OWU3Zi1iMDdmLTRmZmYtYmQ4Mi1kMjk3MGZjYjhmY2QiLCJpZCI6MjY1NzEsInNjb3BlcyI6WyJhc3IiLCJnYyJdLCJpYXQiOjE1ODc5NjQ1NDh9.mGpF-Lm3RGAeclWcHHdw17YEIdPPLy56vt4rJVaGwmU";
-
-var viewer = new Cesium.Viewer("cesiumContainer");
-
-var tileset = viewer.scene.primitives.add(
-  new Cesium.Cesium3DTileset({
-    url: Cesium.IonResource.fromAssetId(94722),
-  })
-);
-
-viewer.zoomTo(tileset).otherwise(function (error) {
-  console.log(error);
-});
 
 // Grant CesiumJS access to your ion assets
 Cesium.Ion.defaultAccessToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2ZWI3OWU3Zi1iMDdmLTRmZmYtYmQ4Mi1kMjk3MGZjYjhmY2QiLCJpZCI6MjY1NzEsInNjb3BlcyI6WyJhc3IiLCJnYyJdLCJpYXQiOjE1ODc5NjQ1NDh9.mGpF-Lm3RGAeclWcHHdw17YEIdPPLy56vt4rJVaGwmU";
