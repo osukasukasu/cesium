@@ -19,7 +19,13 @@
 <body>
   <div id="cesiumContainer"></div>
   <script>
-    var viewer = new Cesium.Viewer('cesiumContainer');
+    
+    var viewer = new Cesium.Viewer('cesiumContainer', {
+    infoBox : false,
+    selectionIndicator : false,
+    shadows : true,
+    shouldAnimate : true
+});
 
     viewer.dataSources.add(Cesium.KmlDataSource.load("../KML/候補物件.kmz"));
 
@@ -30,12 +36,6 @@
     viewer.dataSources.add(Cesium.KmlDataSource.load("../KML/MackyBldg.kmz"));
 
 
-    var viewer = new Cesium.Viewer('cesiumContainer', {
-    infoBox : false,
-    selectionIndicator : false,
-    shadows : true,
-    shouldAnimate : true
-});
 
 function createModel(url, height) {
     viewer.entities.removeAll();
